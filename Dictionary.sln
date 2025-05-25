@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordFrequencyCounter", "WordFrequencyCounter\WordFrequencyCounter.csproj", "{2B5FEE4E-39EA-46FC-8254-2A8DFD83C6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyCounterUnitTests", "WordFrequencyCounterUnitTests\WordFrequencyCounterUnitTests\WordFrequencyCounterUnitTests.csproj", "{1EF57D57-599C-41D5-8CAA-FE4CC53E7D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5FEE4E-39EA-46FC-8254-2A8DFD83C6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5FEE4E-39EA-46FC-8254-2A8DFD83C6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5FEE4E-39EA-46FC-8254-2A8DFD83C6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5FEE4E-39EA-46FC-8254-2A8DFD83C6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF57D57-599C-41D5-8CAA-FE4CC53E7D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF57D57-599C-41D5-8CAA-FE4CC53E7D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF57D57-599C-41D5-8CAA-FE4CC53E7D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF57D57-599C-41D5-8CAA-FE4CC53E7D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEA93E8-9332-488D-A782-1BDD6A86997C}
+	EndGlobalSection
+EndGlobal
